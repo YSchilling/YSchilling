@@ -1,8 +1,5 @@
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
-
-# Yorick Schilling
+# 🐺 Yorick Schilling
+**`Digital Craftsman`**
 
 Momentan bin ich Schüler an einem Gymnasium mit den Leistungskursen Chemie und Informatik und plane mein Abitur nächstes Jahr abzuschließen.
 Ich bin ein neugieriger Mensch, der gerne viel und abwechslungsreich lernt.
@@ -15,7 +12,7 @@ Deswegen schreiben Sie mich gerne an, wenn Sie denken, dass wir zusammenpassen.
 ---
 ### 🧰 Languages and Tools
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<i class="devicon-flask-original"></i>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -27,4 +24,16 @@ Deswegen schreiben Sie mich gerne an, wenn Sie denken, dass wir zusammenpassen.
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          
+<br />
+
+#
+
+### 📊 Stats
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSchilling&show_icons=true&theme=gruvbox)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+    <summary><h3>👨‍💻My Coding Journey</h3></summary>
+</details>
