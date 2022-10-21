@@ -1,3 +1,5 @@
+# Yorick Schilling
+
 Momentan bin ich Schüler an einem Gymnasium mit den Leistungskursen Chemie und Informatik und plane mein Abitur nächstes Jahr abzuschließen.
 Ich bin ein neugieriger Mensch, der gerne viel und abwechslungsreich lernt.
 In der Informatik habe ich innerhalb der letzten Jahre meine Passion gefunden, die ich auch anstrebe zu meinem zukünftigen Beruf zu machen.
@@ -6,17 +8,8 @@ Andererseits interessiert mich auch die Backendprogrammierung und wie Computer i
 Um nun Erfahrungen zu sammeln, damit ich mich entscheiden kann in welchem Bereich ich arbeiten will, bin ich auf der Suche nach Praktika.
 Deswegen schreiben Sie mich gerne an, wenn Sie denken, dass wir zusammenpassen.
 
-<!--
-**YSchilling/YSchilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Tech Stack
+| Languages | Frameworks | Other Tools |
+| --------- | ---------- | ----------- |
+| Python    |
