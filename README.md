@@ -9,7 +9,6 @@ Um nun Erfahrungen zu sammeln, damit ich mich entscheiden kann in welchem Bereic
 Deswegen schreiben Sie mich gerne an, wenn Sie denken, dass wir zusammenpassen.
 
 ---
-## Tech Stack
-| Languages | Frameworks | Other Tools |
-| --------- | ---------- | ----------- |
-| Python    |
+### Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
