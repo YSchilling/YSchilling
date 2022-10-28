@@ -1,13 +1,11 @@
 # 🐺 Yorick Schilling
 **`Digital Craftsman`**
 
-Momentan bin ich Schüler an einem Gymnasium mit den Leistungskursen Chemie und Informatik und plane mein Abitur nächstes Jahr abzuschließen.
-Ich bin ein neugieriger Mensch, der gerne viel und abwechslungsreich lernt.
-In der Informatik habe ich innerhalb der letzten Jahre meine Passion gefunden, die ich auch anstrebe zu meinem zukünftigen Beruf zu machen.
-Einerseits sehe ich mich in einer beratenden oder auch führenden Position, weil ich gerne mit Menschen kommuniziere und zusammen arbeite.
-Andererseits interessiert mich auch die Backendprogrammierung und wie Computer im Detail funktionieren.
-Um nun Erfahrungen zu sammeln, damit ich mich entscheiden kann in welchem Bereich ich arbeiten will, bin ich auf der Suche nach Praktika.
-Deswegen schreiben Sie mich gerne an, wenn Sie denken, dass wir zusammenpassen.
+Momentan bin ich noch Schüler und mache vorraussichtlich nächstes Jahr (2023) mein Abitur, mit den Leistungskursen Chemie und Informatik.
+Da ich ein neugieriger Mensch bin, der gerne viel und abwechslungsreich lernt, habe ich mich in den letzten Jahren, zusätzlich zu meinem Leistungskurs, noch privat mit der Informatik beschäftigt.
+Am besten kenne ich mich mit der Web-/App-Programmierung aus, und habe mein Hauptinterresse im Backend gefunden. Jedoch habe ich mich noch nicht festgelegt und bin auch für andere Bereiche offen.
+Damit ich nun Praxiserfahrung sammeln kann, bin ich auf der Suche nach Praktikas.
+Wenn Sie sich also für mich interessieren und denken wir passen zusammen, dann schreiben Sie mich doch gerne privat an!
 
 ---
 ### 🧰 Languages and Tools
