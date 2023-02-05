@@ -1,9 +1,9 @@
 # 🐺 Yorick Schilling
 **`Digital Craftsman`**
 
-Momentan bin ich noch Schüler und mache vorraussichtlich nächstes Jahr (2023) mein Abitur, mit den Leistungskursen Chemie und Informatik.
+ Momentan bin ich noch Schüler und mache vorraussichtlich nächstes Jahr (2023) mein Abitur, mit den Leistungskursen Chemie und Informatik.
 Da ich ein neugieriger Mensch bin, der gerne viel und abwechslungsreich lernt, habe ich mich in den letzten Jahren, zusätzlich zu meinem Leistungskurs, noch privat mit der Informatik beschäftigt.
-Am besten kenne ich mich mit der Web-/App-Programmierung aus, und habe mein Hauptinterresse im Backend gefunden. Jedoch habe ich mich noch nicht festgelegt und bin auch für andere Bereiche offen.
+Ich habe mich noch auf keine Richtung beschränkt und mir von Web-/App-Programmierung bis Blockchain, mal alles angeschaut.
 Damit ich nun Praxiserfahrung sammeln kann, bin ich auf der Suche nach Praktikas.
 Wenn Sie sich also für mich interessieren und denken wir passen zusammen, dann schreiben Sie mich doch gerne privat an!
 
