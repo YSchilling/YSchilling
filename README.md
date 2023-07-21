@@ -2,11 +2,11 @@
 
 **`Digital Craftsman`**
 
-Momentan bin ich noch Schüler und mache vorraussichtlich nächstes Jahr (2023) mein Abitur, mit den Leistungskursen Chemie und Informatik.
-Da ich ein neugieriger Mensch bin, der gerne viel und abwechslungsreich lernt, habe ich mich in den letzten Jahren, zusätzlich zu meinem Leistungskurs, noch privat mit der Informatik beschäftigt.
-Ich habe mich noch auf keine Richtung beschränkt und mir von Web-/App-Programmierung bis Blockchain, mal alles angeschaut.
-Damit ich nun Praxiserfahrung sammeln kann, bin ich auf der Suche nach Praktikas.
-Wenn Sie sich also für mich interessieren und denken wir passen zusammen, dann schreiben Sie mich doch gerne privat an!
+Ich war schon immer ein neugieriger Mensch, der sich für viele verschiedene Themen interessiert. Wenn ich ein Thema für mich gefunden habe, dann kann ich Stunden damit verbringen es zu studieren. Am liebsten gehe ich dabei mit anderen in den Diskurs und freue mich immer darüber, wenn man gegenseitig voneinander lernen kann.
+
+Ein Thema, welches in den letzten Jahren mein Leben erfüllt hat, ist die Informatik. Durch meinen Hintergrund im Gaming habe ich damit angefangen Spiele in Python zu programmieren. Relativ schnell hat sich mein Interesse ausgebreitet und mich haben nicht nur der Code, sondern auch die Theorie angefangen zu interessieren.
+
+Beim Programmieren habe ich es lieben gelernt, mir über Probleme systematisch Gedanken zu machen und Lösungswege zu erschließen. Das verbunden mit meinem wachsenden wirtschaftlichen Interesse bin ich zum Unternehmertum und die Startup-Szene gekommen. Ich habe zum Beispiel bei der „Entrepreneurship Talent Academy“ der Stiftung der Deutschen Wirtschaft mitgemacht und könnte mir auch in Zukunft vorstellen zu gründen.
 
 ---
 
