@@ -2,11 +2,9 @@
 
 **`Digital Craftsman`**
 
-Ich war schon immer ein neugieriger Mensch, der sich für viele verschiedene Themen interessiert. Wenn ich ein Thema für mich gefunden habe, dann kann ich Stunden damit verbringen es zu studieren. Am liebsten gehe ich dabei mit anderen in den Diskurs und freue mich immer darüber, wenn man gegenseitig voneinander lernen kann.
+With a lifelong passion for technology, I have immersed myself in the world of computers and programming. What began as a hobby five years ago has become a professional journey, where I’ve spent the past year honing my skills in the industry. Currently pursuing a degree in Computer Science at the prestigious Technical University of Munich (TUM), I thrive on tackling complex challenges and developing innovative solutions.
 
-Ein Thema, welches in den letzten Jahren mein Leben erfüllt hat, ist die Informatik. Durch meinen Hintergrund im Gaming habe ich damit angefangen Spiele in Python zu programmieren. Relativ schnell hat sich mein Interesse ausgebreitet und mich haben nicht nur der Code, sondern auch die Theorie angefangen zu interessieren.
-
-Beim Programmieren habe ich es lieben gelernt, mir über Probleme systematisch Gedanken zu machen und Lösungswege zu erschließen. Das verbunden mit meinem wachsenden wirtschaftlichen Interesse bin ich zum Unternehmertum und die Startup-Szene gekommen. Ich habe zum Beispiel bei der „Entrepreneurship Talent Academy“ der Stiftung der Deutschen Wirtschaft mitgemacht und könnte mir auch in Zukunft vorstellen zu gründen.
+My entrepreneurial spirit fuels my ambition to launch my own venture, where I can merge my technical expertise with a vision for creating impactful products that contribute to a brighter future. I am always eager to learn and grow, actively seeking out opportunities that expand my horizons both personally and professionally.
 
 ---
 
