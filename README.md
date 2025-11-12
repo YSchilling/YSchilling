@@ -19,7 +19,6 @@ My entrepreneurial spirit fuels my ambition to launch my own venture, where I ca
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <br/>
 
 #### Backend
@@ -50,3 +49,4 @@ My entrepreneurial spirit fuels my ambition to launch my own venture, where I ca
     <summary><h3>👨‍💻My Coding Journey</h3></summary>
 </details>
  -->
+
